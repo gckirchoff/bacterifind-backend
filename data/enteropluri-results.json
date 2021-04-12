@@ -1,0 +1,6843 @@
+[
+  {
+    "codeNumber": 40000,
+    "microorganisms": [
+      { "microorganism": "Yersinia pestis", "atypicalTests": ["NONE"] },
+      { "microorganism": "Shigella sp.", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40001,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["IND", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40002,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia pseudotuberculosis",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40003,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia pseudotuberculosis",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40004,
+    "microorganisms": [
+      { "microorganism": "Tatumella ptyseos", "atypicalTests": ["NONE"] },
+      { "microorganism": "Providencia rustigianii", "atypicalTests": ["IND"] }
+    ]
+  },
+  {
+    "codeNumber": 40005,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["IND"] }
+    ]
+  },
+  {
+    "codeNumber": 40006,
+    "microorganisms": [
+      { "microorganism": "Proteus penneri", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40007,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["IND"] },
+      { "microorganism": "Proteus vulgaris", "atypicalTests": ["H2S", "IND"] },
+      { "microorganism": "Proteus mirabilis", "atypicalTests": ["ORN", "H2S"] }
+    ]
+  },
+  {
+    "codeNumber": 40010,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["DUL"] }
+    ]
+  },
+  {
+    "codeNumber": 40011,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40013,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40020,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40021,
+    "microorganisms": [
+      { "microorganism": "Ewingella americana", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40022,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40023,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40024,
+    "microorganisms": [
+      { "microorganism": "Tatumella ptyseos", "atypicalTests": ["VP"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["PA"] }
+    ]
+  },
+  {
+    "codeNumber": 40025,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40026,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] },
+      { "microorganism": "Proteus mirabilis", "atypicalTests": ["ORN", "H2S"] }
+    ]
+  },
+  {
+    "codeNumber": 40027,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] },
+      { "microorganism": "Proteus mirabilis", "atypicalTests": ["ORN", "H2S"] }
+    ]
+  },
+  {
+    "codeNumber": 40031,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40033,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40040,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ORN", "ARA", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40041,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40042,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["ORN", "ARA"]
+      },
+      {
+        "microorganism": "Yersinia pseudotuberculosis",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40043,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40044,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40045,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["IND", "SOR"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40046,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40047,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["IND", "SOR"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40050,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["DUL"] },
+      { "microorganism": "Escherichia coli", "atypicalTests": ["IND", "ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40051,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40053,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40060,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40061,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40062,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40063,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40064,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40065,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40066,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40067,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40071,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40073,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40100,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ORN", "SOR", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40101,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40102,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia pseudotuberculosis",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40103,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Yersinia pseudotuberculosis",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40104,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40105,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40106,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40107,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40110,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["DUL"] }
+    ]
+  },
+  {
+    "codeNumber": 40111,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40112,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40113,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40120,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40121,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40122,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40123,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40124,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40125,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40126,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40127,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40130,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40131,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40132,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40133,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40140,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["NONE"] },
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["ADO"] },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40141,
+    "microorganisms": [
+      { "microorganism": "Serratia ficaria", "atypicalTests": ["NONE"] },
+      { "microorganism": "Serratia plymuthica", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40142,
+    "microorganisms": [
+      { "microorganism": "Yersinia kristensenii", "atypicalTests": ["ORN"] },
+      { "microorganism": "Yersinia enterocolitica", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 40143,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ORN", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40144,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40145,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40146,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40147,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40150,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["DUL"] },
+      {
+        "microorganism": "Salmonella sp.serovar paratyphi A",
+        "atypicalTests": ["ORN"]
+      },
+      { "microorganism": "Escherichia coli", "atypicalTests": ["IND"] }
+    ]
+  },
+  {
+    "codeNumber": 40151,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40152,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["CIT"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40153,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40160,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40161,
+    "microorganisms": [
+      { "microorganism": "Serratia ficaria", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40162,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ORN", "VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40163,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40164,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40165,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40166,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40167,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40170,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40171,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40172,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40173,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Enterobacter cloacae", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 40200,
+    "microorganisms": [
+      { "microorganism": "Shigella boydii", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40201,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40202,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40203,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40204,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40205,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["IND", "LAC"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40206,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40207,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40211,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40213,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40220,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40221,
+    "microorganisms": [
+      { "microorganism": "Ewingella americana", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40222,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40223,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40224,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40225,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40226,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40227,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40231,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40233,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40240,
+    "microorganisms": [
+      { "microorganism": "Shigella boydii", "atypicalTests": ["LAC", "ARA"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40241,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40242,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40243,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40244,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40245,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40246,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40247,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40251,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40253,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40260,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40261,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40262,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40263,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40264,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40265,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40266,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40267,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40271,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40273,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 40300,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Shigella boydii", "atypicalTests": ["LAC"] },
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40301,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["SOR"] }
+    ]
+  },
+  {
+    "codeNumber": 40302,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40303,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["SOR"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40304,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40305,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40306,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40307,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40310,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["DUL"] },
+      { "microorganism": "Shigella boydii", "atypicalTests": ["LAC", "DUL"] }
+    ]
+  },
+  {
+    "codeNumber": 40311,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["SOR"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40312,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40313,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["SOR"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40320,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40321,
+    "microorganisms": [
+      { "microorganism": "Serratia plymuthica", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40322,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40323,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40324,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40325,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40326,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40327,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40330,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40331,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["ORN", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40332,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40333,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40340,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["CIT"] },
+      { "microorganism": "Shigella boydii", "atypicalTests": ["LAC"] }
+    ]
+  },
+  {
+    "codeNumber": 40341,
+    "microorganisms": [
+      { "microorganism": "Serratia plymuthica", "atypicalTests": ["NONE"] },
+      { "microorganism": "Serratia ficaria", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40342,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["CIT"] }
+    ]
+  },
+  {
+    "codeNumber": 40343,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40344,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40345,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40346,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40347,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40350,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["CIT"] }
+    ]
+  },
+  {
+    "codeNumber": 40351,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40352,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["CIT"] }
+    ]
+  },
+  {
+    "codeNumber": 40353,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40360,
+    "microorganisms": [
+      { "microorganism": "Serratia plymuthica", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40361,
+    "microorganisms": [
+      { "microorganism": "Serratia plymuthica", "atypicalTests": ["NONE"] },
+      { "microorganism": "Serratia ficaria", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40362,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40363,
+    "microorganisms": [
+      { "microorganism": "Enterobacter cloacae", "atypicalTests": ["ARN"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40364,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40365,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40366,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40367,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40370,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40371,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Enterobacter cloacae", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 40372,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40373,
+    "microorganisms": [
+      { "microorganism": "Enterobacter cloacae", "atypicalTests": ["ORN"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Klebsiella pneumoniae", "atypicalTests": ["LYS"] }
+    ]
+  },
+  {
+    "codeNumber": 40401,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["IND", "PA"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40403,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40404,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40405,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["IND"]
+      },
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["IND"] }
+    ]
+  },
+  {
+    "codeNumber": 40407,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["IND"] },
+      { "microorganism": "Providencia rettgeri", "atypicalTests": ["IND"] }
+    ]
+  },
+  {
+    "codeNumber": 40421,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40423,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40425,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40427,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40441,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40443,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40445,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["IND", "SOR"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40447,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40461,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      },
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS", "ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40463,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "LAC", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40465,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40467,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40500,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40501,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40502,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40503,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40504,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40505,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40506,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40507,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40511,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40513,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40520,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["LAC"] }
+    ]
+  },
+  {
+    "codeNumber": 40521,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["LAC"] }
+    ]
+  },
+  {
+    "codeNumber": 40522,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40523,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40524,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40525,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40526,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40527,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40531,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40533,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40540,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella rhinoscleromatis",
+        "atypicalTests": ["NONE"]
+      },
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40541,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40542,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40543,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40544,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40545,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40546,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40547,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40551,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40553,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40560,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40561,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40562,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40563,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "LAC"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40564,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40565,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40566,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40567,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40571,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40573,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "LAC"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      {
+        "microorganism": "Klebsiella pneumoniae",
+        "atypicalTests": ["LYS", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40600,
+    "microorganisms": [
+      { "microorganism": "Moellerella wisconsensis", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40601,
+    "microorganisms": [
+      { "microorganism": "Moellerella wisconsensis", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40603,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40605,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["IND", "LAC"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40607,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40621,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40623,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40625,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40627,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40641,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40643,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40645,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40647,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40661,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40663,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ORN", "ARA"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      },
+      {
+        "microorganism": "Klebsiella pneumoniae",
+        "atypicalTests": ["LYS", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40665,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40667,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40673,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella pneumoniae",
+        "atypicalTests": ["LYS", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40700,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] },
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["VP"] }
+    ]
+  },
+  {
+    "codeNumber": 40701,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["VP"] },
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40702,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40703,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["VP", "URE"] }
+    ]
+  },
+  {
+    "codeNumber": 40704,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40705,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40706,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40707,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40711,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40713,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40720,
+    "microorganisms": [
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40721,
+    "microorganisms": [
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40722,
+    "microorganisms": [
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["URE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40723,
+    "microorganisms": [
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["URE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40724,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40725,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40726,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40727,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40731,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40733,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40740,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40741,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40742,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 40743,
+    "microorganisms": [
+      { "microorganism": "Klebsiella ozaenae", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Klebsiella pneumoniae",
+        "atypicalTests": ["LYS", "VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40744,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40745,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40746,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40747,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40751,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40753,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella pneumoniae",
+        "atypicalTests": ["LYS", "VP"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40760,
+    "microorganisms": [
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["SOR"] }
+    ]
+  },
+  {
+    "codeNumber": 40761,
+    "microorganisms": [
+      { "microorganism": "Serratia rubidaea", "atypicalTests": ["SOR"] }
+    ]
+  },
+  {
+    "codeNumber": 40762,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella pneumoniae",
+        "atypicalTests": ["LYS", "CIT"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40763,
+    "microorganisms": [
+      { "microorganism": "Klebsiella pneumoniae", "atypicalTests": ["LYS"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40764,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+
+  {
+    "codeNumber": 40765,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40766,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40767,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40771,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella pneumoniae",
+        "atypicalTests": ["LYS", "URE"]
+      },
+      { "microorganism": "Enterobacter cloacae", "atypicalTests": ["ORN"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 40772,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella pneumoniae",
+        "atypicalTests": ["LYS", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 40773,
+    "microorganisms": [
+      { "microorganism": "Klebsiella pneumoniae", "atypicalTests": ["LYS"] },
+      { "microorganism": "Enterobacter cloacae", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41000,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41001,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["PA"] }
+    ]
+  },
+  {
+    "codeNumber": 41002,
+    "microorganisms": [
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["ORN", "PA"]
+      },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["PA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41003,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["PA"] }
+    ]
+  },
+  {
+    "codeNumber": 41004,
+    "microorganisms": [
+      { "microorganism": "Providencia rustigianii", "atypicalTests": ["NONE"] },
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["CIT"] }
+    ]
+  },
+  {
+    "codeNumber": 41005,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41006,
+    "microorganisms": [
+      { "microorganism": "Proteus vulgaris", "atypicalTests": ["H2S"] },
+      { "microorganism": "Morganella morganii", "atypicalTests": ["ORN"] },
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["CIT"] }
+    ]
+  },
+  {
+    "codeNumber": 41007,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["NONE"] },
+      { "microorganism": "Proteus vulgaris", "atypicalTests": ["H2S"] }
+    ]
+  },
+  {
+    "codeNumber": 41010,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["DUL"] },
+      { "microorganism": "Escherichia coli", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41011,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41013,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41020,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41021,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41022,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41023,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41024,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41025,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41026,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41027,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41031,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41033,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41040,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["NONE"] },
+      { "microorganism": "Escherichia coli", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41041,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["SOR", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41042,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["ORN", "ARA"]
+      },
+      { "microorganism": "Shigella sp.", "atypicalTests": ["URE"] }
+    ]
+  },
+  {
+    "codeNumber": 41043,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["SOR", "PA"]
+      },
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ORN", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41044,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41045,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["SOR"] }
+    ]
+  },
+  {
+    "codeNumber": 41046,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41047,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["SOR"] }
+    ]
+  },
+  {
+    "codeNumber": 41050,
+    "microorganisms": [
+      { "microorganism": "Escherichia coli", "atypicalTests": ["ARA"] },
+      { "microorganism": "Shigella sp.", "atypicalTests": ["DUL"] }
+    ]
+  },
+  {
+    "codeNumber": 41051,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41053,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41060,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41061,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41062,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41063,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41064,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41065,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41066,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41067,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41071,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41073,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41100,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Escherichia coli", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41101,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["ARA", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41102,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["IND"] },
+      {
+        "microorganism": "Yersinia pseudotuberculosis",
+        "atypicalTests": ["URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41103,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41104,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["ARA", "CIT"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41105,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["ARA"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41106,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["ARA", "CIT"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41107,
+    "microorganisms": [
+      { "microorganism": "Providencia stuartii", "atypicalTests": ["ARA"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41110,
+    "microorganisms": [
+      { "microorganism": "Escherichia coli", "atypicalTests": ["NONE"] },
+      { "microorganism": "Shigella sp.", "atypicalTests": ["DUL"] }
+    ]
+  },
+  {
+    "codeNumber": 41111,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41112,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41113,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41120,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41121,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41122,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41123,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41124,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41125,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41126,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41127,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41130,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41131,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41132,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41133,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41140,
+    "microorganisms": [
+      { "microorganism": "Shigella sp.", "atypicalTests": ["NONE"] },
+      { "microorganism": "Escherichia coli", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41141,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Citrobacter amalonaticus", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41142,
+    "microorganisms": [
+      { "microorganism": "Yersinia frederikensenii", "atypicalTests": ["ORN"] },
+      { "microorganism": "Yersinia enterocolitica", "atypicalTests": ["ORN"] },
+      { "microorganism": "Yersinia kristensenii", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41143,
+    "microorganisms": [
+      { "microorganism": "Yersinia frederikensenii", "atypicalTests": ["ORN"] },
+      { "microorganism": "Citrobacter amalonaticus", "atypicalTests": ["ORN"] },
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["IND"] }
+    ]
+  },
+  {
+    "codeNumber": 41144,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41145,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41146,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41147,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41150,
+    "microorganisms": [
+      { "microorganism": "Escherichia coli", "atypicalTests": ["NONE"] },
+      { "microorganism": "Shigella sp.", "atypicalTests": ["DUL"] }
+    ]
+  },
+  {
+    "codeNumber": 41151,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Citrobacter amalonaticus", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41152,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41153,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["IND"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Citrobacter amalonaticus", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41160,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41161,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41162,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Yersinia intermedia", "atypicalTests": ["ORN"] },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ORN", "VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41163,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41164,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41165,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41166,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41167,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41170,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41171,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41172,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41173,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41200,
+    "microorganisms": [
+      { "microorganism": "Shigella boydii", "atypicalTests": ["LAC", "ARA"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41201,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41202,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41203,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC", "PA"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41204,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41205,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41206,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41207,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41211,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41213,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41220,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41221,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41222,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41223,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41224,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41225,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41226,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41227,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41231,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41233,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41240,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Shigella boydii",
+        "atypicalTests": ["LAC", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41241,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ORN", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41242,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41243,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ORN", "ARA"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ARA"] }
+    ]
+  },
+  {
+    "codeNumber": 41244,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41245,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41246,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41247,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41250,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41251,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41253,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41260,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41261,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41262,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41263,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41264,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41265,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41266,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41267,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41271,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41273,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41300,
+    "microorganisms": [
+      { "microorganism": "Shigella boydii", "atypicalTests": ["LAC"] },
+      { "microorganism": "Escherichia coli", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41301,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41302,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41303,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ORN", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41304,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41305,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41306,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41307,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41310,
+    "microorganisms": [
+      { "microorganism": "Escherichia coli", "atypicalTests": ["NONE"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      {
+        "microorganism": "Shigella boydii",
+        "atypicalTests": ["LAC", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41311,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41312,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41313,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41320,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41321,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Enterobacter sakazakii", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41322,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41323,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41324,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41325,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41326,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41327,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41330,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41331,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41332,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41333,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41340,
+    "microorganisms": [
+      { "microorganism": "Escherichia coli", "atypicalTests": ["NONE"] },
+      { "microorganism": "Shigella boydii", "atypicalTests": ["LAC"] }
+    ]
+  },
+  {
+    "codeNumber": 41341,
+    "microorganisms": [
+      { "microorganism": "Citrobacter amalonaticus", "atypicalTests": ["ORN"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41342,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ORN", "CIT"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41343,
+    "microorganisms": [
+      { "microorganism": "Citrobacter amalonaticus", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41344,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41345,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41346,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41347,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41350,
+    "microorganisms": [
+      { "microorganism": "Escherichia coli", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41351,
+    "microorganisms": [
+      { "microorganism": "Citrobacter amalonaticus", "atypicalTests": ["ORN"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41352,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["IND"] }
+    ]
+  },
+  {
+    "codeNumber": 41353,
+    "microorganisms": [
+      { "microorganism": "Citrobacter freundii", "atypicalTests": ["IND"] },
+      { "microorganism": "Citrobacter amalonaticus", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41360,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41361,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41362,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41363,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] },
+      { "microorganism": "Klebsiella oxytoca", "atypicalTests": ["LYS"] }
+    ]
+  },
+  {
+    "codeNumber": 41364,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41365,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41366,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41367,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41370,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41371,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41372,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41373,
+    "microorganisms": [
+      { "microorganism": "Klebsiella oxytoca", "atypicalTests": ["LYS"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["NONE"] }
+    ]
+  },
+  {
+    "codeNumber": 41400,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["PA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41401,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["PA"]
+      },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41402,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia rettgeri",
+        "atypicalTests": ["PA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41403,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia rettgeri",
+        "atypicalTests": ["PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41404,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["PA"]
+      },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41405,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41406,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia rettgeri",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41407,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia rettgeri",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41421,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41423,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41425,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41427,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41441,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["SOR", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41443,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN", "ARA"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADA", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41444,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41445,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["SOR"]
+      },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41447,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41453,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41461,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41463,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41465,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41467,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41500,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41501,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["ARA", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41502,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41503,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41504,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["ARA", "CIT"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41505,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41506,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41507,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41511,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41513,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41520,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41521,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41522,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41523,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41524,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41525,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41526,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41527,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41531,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41533,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41540,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41541,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      { "microorganism": "Citrobacter koseri", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41542,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      { "microorganism": "Citrobacter koseri", "atypicalTests": ["ORN", "CIT"] }
+    ]
+  },
+  {
+    "codeNumber": 41543,
+    "microorganisms": [
+      { "microorganism": "Citrobacter koseri", "atypicalTests": ["ORN"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41544,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41545,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41546,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41547,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41551,
+    "microorganisms": [
+      { "microorganism": "Citrobacter koseri", "atypicalTests": ["ORN"] },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41552,
+    "microorganisms": [
+      { "microorganism": "Citrobacter koseri", "atypicalTests": ["ORN", "CIT"] }
+    ]
+  },
+  {
+    "codeNumber": 41553,
+    "microorganisms": [
+      { "microorganism": "Citrobacter koseri", "atypicalTests": ["ORN"] }
+    ]
+  },
+  {
+    "codeNumber": 41560,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41561,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41562,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41563,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] },
+      { "microorganism": "Klebsiella oxytoca", "atypicalTests": ["LYS", "LAC"] }
+    ]
+  },
+  {
+    "codeNumber": 41564,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41565,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41566,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41567,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41571,
+    "microorganisms": [
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41573,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "LAC"]
+      },
+      { "microorganism": "Pantoea agglomerans", "atypicalTests": ["ADO"] }
+    ]
+  },
+  {
+    "codeNumber": 41601,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["LAC", "PA"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41603,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia rettgeri",
+        "atypicalTests": ["LAC", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41604,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["LAC", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41605,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia stuartii",
+        "atypicalTests": ["LAC"]
+      },
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41606,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia rettgeri",
+        "atypicalTests": ["LAC", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41607,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia rettgeri",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41621,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41623,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41625,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41627,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41641,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41643,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN", "ARA"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41645,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["LAC", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41647,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41653,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41661,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41663,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41665,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41667,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41673,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41700,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41701,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia rubidaea",
+        "atypicalTests": ["IND", "VP"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41702,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41703,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41704,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41705,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["LAC", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41706,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41707,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41711,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41713,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41720,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia rubidaea",
+        "atypicalTests": ["IND"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41721,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia rubidaea",
+        "atypicalTests": ["IND"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41722,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41723,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Serratia rubidaea",
+        "atypicalTests": ["IND", "URE"]
+      },
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41724,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41725,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41726,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41727,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41731,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41733,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41740,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41741,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41742,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41743,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "VP"]
+      },
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41744,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41745,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41746,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41747,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41750,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41751,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41752,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41753,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter koseri",
+        "atypicalTests": ["ORN"]
+      },
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41760,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41761,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "URE"]
+      },
+      {
+        "microorganism": "Serratia rubidaea",
+        "atypicalTests": ["IND", "SOR"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41762,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41763,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41764,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41765,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41766,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41767,
+    "microorganisms": [
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41771,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "URE"]
+      },
+      {
+        "microorganism": "Pantoea agglomerans",
+        "atypicalTests": ["ADO"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41772,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 41773,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella oxytoca",
+        "atypicalTests": ["LYS"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42002,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42003,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42004,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus vulgaris",
+        "atypicalTests": ["IND", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42005,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus vulgaris",
+        "atypicalTests": ["IND", "URE"]
+      },
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42006,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus penneri",
+        "atypicalTests": ["H2S"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42007,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus vulgaris",
+        "atypicalTests": ["IND"]
+      },
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42022,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42023,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42024,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42025,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42026,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42027,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42100,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42101,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42102,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42103,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42110,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42111,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42112,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42113,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42140,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Salmonella sp. serovar paratyphi A",
+        "atypicalTests": ["ORN", "H2S"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42141,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42142,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42143,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42150,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Salmonella sp. serovar paratyphi A",
+        "atypicalTests": ["ORN", "H2S"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42151,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Salmonella sp. subsp.choleraesuis",
+        "atypicalTests": ["LYS", "ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42152,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42153,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42206,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42207,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42221,
+    "microorganisms": [
+      {
+        "microorganism": "Ewingella americana",
+        "atypicalTests": ["H2S"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42226,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42227,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42300,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42301,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42302,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42303,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42310,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42311,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42312,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42313,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42340,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42341,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42342,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42343,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42350,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42351,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42352,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 42353,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43004,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus vulgaris",
+        "atypicalTests": ["URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43005,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus vulgaris",
+        "atypicalTests": ["URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43006,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus vulgaris",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43007,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus vulgaris",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43026,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43027,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["ORN", "IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43103,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43113,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43141,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43142,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43143,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43150,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43151,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43152,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43153,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43313,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43340,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["LYS", "H2S"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43341,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43342,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43343,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43350,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["LYS", "H2S"]
+      },
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43351,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43352,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 43353,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44000,
+    "microorganisms": [
+      {
+        "microorganism": "Shigella sonnei",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Salmonella sp.serovar.cholaeraesuis",
+        "atypicalTests": ["LYS", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44001,
+    "microorganisms": [
+      {
+        "microorganism": "Cedecea davisae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44002,
+    "microorganisms": [
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["IND", "PA"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ARA", "SOR"]
+      },
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44003,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44004,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44005,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44006,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S"]
+      },
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44007,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44010,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44020,
+    "microorganisms": [
+      {
+        "microorganism": "Hafnia alvei",
+        "atypicalTests": ["LYS", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44021,
+    "microorganisms": [
+      {
+        "microorganism": "Cedecea davisae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44022,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44023,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "SOR"]
+      },
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "PA"]
+      },
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44024,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44025,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44026,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44027,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44040,
+    "microorganisms": [
+      {
+        "microorganism": "Salmonella sp.serovar.cholaeraesuis",
+        "atypicalTests": ["LYS"]
+      },
+      {
+        "microorganism": "Shigella sp.",
+        "atypicalTests": ["ARA", "SOR"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44041,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44042,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44043,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["CIT", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44045,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ARA", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44050,
+    "microorganisms": [
+      {
+        "microorganism": "Salmonella sp.serovar.choleraesuis",
+        "atypicalTests": ["LYS", "DUL"]
+      },
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44060,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44061,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44062,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["VP"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["VP", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44063,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ARA", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44065,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ARA", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44071,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44073,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44100,
+    "microorganisms": [
+      {
+        "microorganism": "Shigella sonnei",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44101,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["SOR"]
+      },
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["LAC", "VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44102,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44103,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter gergoviae",
+        "atypicalTests": ["VP"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44105,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["SOR", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44110,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["IND"]
+      },
+      {
+        "microorganism": "Shigella boydii",
+        "atypicalTests": ["ORN", "DULL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44113,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44120,
+    "microorganisms": [
+      {
+        "microorganism": "Hafnia alvei",
+        "atypicalTests": ["LYS"]
+      },
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["LAC", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44121,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44122,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter gergoviae",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44123,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter gergoviae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44125,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["SOR", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44130,
+    "microorganisms": [
+      {
+        "microorganism": "Hafnia alvei",
+        "atypicalTests": ["LYS", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44131,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["LAC", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44133,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44140,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44141,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44142,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44143,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44144,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["PA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44145,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44147,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["PA", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44150,
+    "microorganisms": [
+      {
+        "microorganism": "Salmonella sp. serovar. paratyphi A",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44151,
+    "microorganisms": [
+      {
+        "microorganism": "Salmonella sp. subsp.choleraesuis",
+        "atypicalTests": ["LYS", "H2S"]
+      },
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44153,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["IND", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44160,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["VP", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44161,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44162,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["VP"]
+      },
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44163,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44164,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["PA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44165,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44167,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["PA", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44170,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44171,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44172,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44173,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44200,
+    "microorganisms": [
+      {
+        "microorganism": "Shigella sonnei",
+        "atypicalTests": ["LAC", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44201,
+    "microorganisms": [
+      {
+        "microorganism": "Cedecea davisae",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44206,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44207,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44221,
+    "microorganisms": [
+      {
+        "microorganism": "Cedecea davisae",
+        "atypicalTests": ["LAC"]
+      },
+      {
+        "microorganism": "Ewingella americana",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44223,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44226,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44227,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44241,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["LAC", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44243,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["IND", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44260,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44261,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Serratialiquefaciens",
+        "atypicalTests": ["Lac", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44262,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44263,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44271,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44273,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44300,
+    "microorganisms": [
+      {
+        "microorganism": "Shigella sonnei",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44301,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44302,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44303,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      },
+      {
+        "microorganism": "Enterobacter gergoviae",
+        "atypicalTests": ["VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44310,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44311,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["VP", "DUL"]
+      },
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44312,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44313,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44320,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44321,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44322,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter gergoviae",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44323,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter gergoviae",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44330,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44331,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44333,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44340,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["LAC", "CIT"]
+      },
+      {
+        "microorganism": "Salmonella sp.serovar paratyphi A",
+        "atypicalTests": ["LAC"]
+      },
+      {
+        "microorganism": "Shigella sonnei",
+        "atypicalTests": ["LAC", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44341,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["LAC"]
+      },
+      {
+        "microorganism": "Salmonella sp.subsp.choleraesuis",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44342,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44343,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44345,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["LAC", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44350,
+    "microorganisms": [
+      {
+        "microorganism": "Salmonella  sp.serovar paratyphi A",
+        "atypicalTests": ["LAC"]
+      },
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44351,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44352,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44353,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter freundii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44360,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["LAC", "CIT"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44361,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44362,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44363,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44365,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["LAC", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44370,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44371,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44372,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44373,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44405,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["ORN", "IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44421,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44423,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS", "SOR"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44441,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44443,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS", "VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44460,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44461,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44462,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS", "CIT"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44463,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44471,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44473,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44500,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44501,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44502,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44503,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44520,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44521,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44522,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44523,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44531,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44533,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44540,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44541,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44542,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44543,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN", "URE"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44545,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44560,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "CIT"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44561,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO"]
+      },
+      {
+        "microorganism": "Enterobacrter cloacae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44562,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44563,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44565,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44570,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44571,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44572,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44573,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44621,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44623,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44660,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44661,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  }
+]
