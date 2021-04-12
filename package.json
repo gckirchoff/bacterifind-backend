@@ -1,7 +1,7 @@
 {
   "name": "enteropluri-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "An app to quickly characterize and identify Enterobacteriaceae",
   "main": "app.js",
   "scripts": {
     "start": "node server.js",
@@ -17,5 +17,8 @@
     "express": "^4.17.1",
     "html-to-text": "^7.0.0",
     "mongoose": "^5.12.2"
+  },
+  "engines": {
+    "node": "^14"
   }
 }
