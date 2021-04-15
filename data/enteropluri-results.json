@@ -6839,5 +6839,1048 @@
         "atypicalTests": ["ARA"]
       }
     ]
+  },
+  {
+    "codeNumber": 44662,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44663,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44671,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44673,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44700,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44701,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44702,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44703,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44720,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44721,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44722,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44723,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44731,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44733,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44740,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44741,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["ADO", "LAC"]
+      },
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44742,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44743,
+    "microorganisms": [
+      {
+        "microorganism": "Klebsiella ozaenae",
+        "atypicalTests": ["ORN", "URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44760,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter aerogenes",
+        "atypicalTests": ["LYS", "CIT"]
+      },
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44761,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Enterobacter aerogenes",
+        "atypicalTests": ["LYS"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44762,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44763,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44770,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44771,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44772,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 44773,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter cloacae",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45000,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["PA", "URE"]
+      },
+      {
+        "microorganism": "Shigella boydii",
+        "atypicalTests": ["ORN", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45001,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45002,
+    "microorganisms": [
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45003,
+    "microorganisms": [
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["PA", "CIT"]
+      },
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45004,
+    "microorganisms": [
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["URE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45005,
+    "microorganisms": [
+      {
+        "microorganism": "Providencia alcalifaciens",
+        "atypicalTests": ["ORN", "ADO"]
+      },
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["URE", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45006,
+    "microorganisms": [
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45007,
+    "microorganisms": [
+      {
+        "microorganism": "Morganella morganii",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45010,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45026,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45027,
+    "microorganisms": [
+      {
+        "microorganism": "Proteus mirabilis",
+        "atypicalTests": ["H2S", "IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45040,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["ARA", "URE"]
+      },
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ORN", "ARA"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45041,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["IND", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45042,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45043,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45050,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45051,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45053,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45061,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["IND", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45062,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia intermedia",
+        "atypicalTests": ["VP", "ARA"]
+      },
+      {
+        "microorganism": "Yersinia kristensenii",
+        "atypicalTests": ["VP"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["VP", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45063,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia marcescens",
+        "atypicalTests": ["LYS", "IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45100,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia hermannii",
+        "atypicalTests": ["GAS"]
+      },
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ORN"]
+      },
+      {
+        "microorganism": "Edwardsiella tarda",
+        "atypicalTests": ["LYS"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45101,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45102,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["SOR"]
+      },
+      {
+        "microorganism": "Yersinia intermedia",
+        "atypicalTests": ["SOR"]
+      },
+      {
+        "microorganism": "Yersinia frederikensenii",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45103,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45110,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Shigella boydii",
+        "atypicalTests": ["ORN", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45111,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45113,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45121,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["IND", "LAC"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45122,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia intermedia",
+        "atypicalTests": ["VP", "SOR"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["VP", "SOR"]
+      },
+      {
+        "microorganism": "Yersinia frederikensenii",
+        "atypicalTests": ["VP", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45140,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia intermedia",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Yersinia frederikensenii",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45141,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45142,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia intermedia",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Yersinia frederikensenii",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45143,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia frederikensenii",
+        "atypicalTests": ["CIT"]
+      },
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45145,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["IND", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45150,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Salmonella sp.serovar paratyphiA",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45151,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45152,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45153,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45160,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia intermedia",
+        "atypicalTests": ["VP"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["VP"]
+      },
+      {
+        "microorganism": "Yersinia frederikensenii",
+        "atypicalTests": ["VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45161,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45162,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia intermedia",
+        "atypicalTests": ["VP"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["VP"]
+      },
+      {
+        "microorganism": "Yersinia frederikensenii",
+        "atypicalTests": ["VP"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45163,
+    "microorganisms": [
+      {
+        "microorganism": "Yersinia intermedia",
+        "atypicalTests": ["VP", "CIT"]
+      },
+      {
+        "microorganism": "Yersinia frederikensenii",
+        "atypicalTests": ["VP", "CIT"]
+      },
+      {
+        "microorganism": "Yersinia enterocolitica",
+        "atypicalTests": ["VP", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45165,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["IND", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45201,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45203,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45240,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["LYS", "ARA"]
+      },
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45241,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45242,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45243,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45250,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["LYS", "ARA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45251,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45253,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["ARA", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45300,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia hermannii",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Kluyvera cryocrescens",
+        "atypicalTests": ["NONE"]
+      },
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["ORN"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45301,
+    "microorganisms": [
+      {
+        "microorganism": "Kluyvera cryocrescens",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45302,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["SOR", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45303,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45310,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["LYS", "SOR"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45311,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45313,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["SOR", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45320,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["IND", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45321,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["IND"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45331,
+    "microorganisms": [
+      {
+        "microorganism": "Enterobacter sakazakii",
+        "atypicalTests": ["IND", "DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45340,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["LYS"]
+      },
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45341,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45342,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45343,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["NONE"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45344,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["LYS", "PA"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45350,
+    "microorganisms": [
+      {
+        "microorganism": "Escherichia coli",
+        "atypicalTests": ["LYS"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45351,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45352,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["DUL", "CIT"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45353,
+    "microorganisms": [
+      {
+        "microorganism": "Citrobacter amalonaticus",
+        "atypicalTests": ["DUL"]
+      }
+    ]
+  },
+  {
+    "codeNumber": 45361,
+    "microorganisms": [
+      {
+        "microorganism": "Serratia liquefaciens",
+        "atypicalTests": ["IND", "LAC"]
+      }
+    ]
   }
 ]
